@@ -1,0 +1,1 @@
+getVideoSrc	brightcove.html#getVideoSrc,string,string,string	brightcove: getVideoSrc(accountId, videoId, auth: string): Future[string]	
